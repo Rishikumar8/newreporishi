@@ -3,3 +3,11 @@ Managing Users and Groups :
 2. /etc/shadow
 3. /etc/group
 4. /etc/gshadow
+=======
+Managing various users and groups in linux/unix OS is done with the help of certain files.
+These files are located inside the /etc/ directory.
+Various file names with their use in User Administration :
+1. /ete/passwd : contains usernames and passwords.
+2. /etc/shadow : contains uid's and pwd's in encrypted format.
+3. /etc/group : contains information about user groups.
+4. /etc/gshadow : contains user groups info. in encrypted form.
